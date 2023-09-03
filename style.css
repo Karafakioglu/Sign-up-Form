@@ -1,0 +1,15 @@
+.page{
+    display: flex;
+}
+
+.img-container{
+    
+}
+
+.img-container > img{
+    max-width: 900px;
+}
+
+.sign-up-form-container{
+    border: 1px solid black;
+}
